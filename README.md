@@ -76,13 +76,6 @@ IoT-Smart-Agriculture-Monitoring-System/
 
 ## ⚙️ Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/IoT-Smart-Agriculture-Monitoring-System.git
-cd IoT-Smart-Agriculture-Monitoring-System
-```
-
 ### Install Dependencies
 
 ```bash
